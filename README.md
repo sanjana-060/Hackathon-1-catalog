@@ -5,7 +5,7 @@ Transportation and logistics:
 Advanced E-Commerce:The integration of augumented reality technology in shopping malls aims to improve the traditional shopping experience by allowing shoppers to virtually try on clothing and accessories in real_time, offering accurate size and fit simulations, a diverse range of virtual products, and seamless integration with E-Commerce platforms.
 
 GOAL OF THE PROJECT:Industry Innovation and Infrastructure
----------------------------------------------------------------------------------------------------------------- CODE FOR THE ABOVE SCENARIO------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------- CODE FOR THE ABOVE SCENARIO-----------------------------------------------------------------------------------------------------
 
 # Size and Fit Simulation to improve the sales:
 
@@ -40,7 +40,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-[105ed49a-f88a-42d4-b13a-3fd9de799cf8](https://github.com/user-attachments/assets/8643e72a-083e-4b94-8c9b-fb11dd0e7f97)
+[105ed49a-f88a-42d4-b13a-3fd9de799cf8](https://github.com/user-attachments/assets/8643e72a-083e-4b94-8c9b-fb11dd0e7f97)   -----------------OUTPUT SCREENSHOT TO IMPROVE THE SALES OF THE E-COMMERCE PLATFORM.
 
 
 
